@@ -1,1 +1,1 @@
-💬🩺 RAG-based Healthcare Chatbot that answers questions from medical PDFs and searches the web when needed.
+💬🩺 RAG-based Healthcare Chatbot that answers questions from uploaded medical PDFs using LLMs.
